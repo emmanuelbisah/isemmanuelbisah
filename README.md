@@ -18,8 +18,6 @@ I'm a passionate **[Software Developer]** with experience in **[web development 
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
-
 ## Featured Projects 💻
 
 ### [Student Learner App]([project_1_link](https://youtu.be/sZefn5RFhIc))
@@ -31,7 +29,7 @@ I'm a passionate **[Software Developer]** with experience in **[web development 
 ## Get in Touch 📬
 
 - **[[Personal Website / Blog](https://sites.google.com/view/emmanuelbisah-site/projects?read_current=1)]**(your_website_or_blog_link)
-- **[LinkedIn]**([your_linkedin_profile_link](https://www.linkedin.com/in/emmanuel-bisah-0ba4a5363/))
+- **[LinkedIn]**([[your_linkedin_profile_link](https://www.linkedin.com/in/emmanuel-bisah-0ba4a5363/)]
 - **[Twitter]**([your_twitter_profile_link](https://x.com/SamuelBisah))
 
 
