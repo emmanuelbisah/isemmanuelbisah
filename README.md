@@ -1,6 +1,6 @@
 # Hi there, I'm [Emmanuel Bisah]! 👋
 
-![Banner Image](https://drive.google.com/file/d/1lrGwqXDPJdaFwgpbIQUzXGihhZd1g7Vb/view?usp=sharing)
+![Banner Image]([https://drive.google.com/file/d/1lrGwqXDPJdaFwgpbIQUzXGihhZd1g7Vb/view?usp=sharing](https://share.google/images/lklD929s2IzyA1eKd))
 
 ## About Me 🚀
 
